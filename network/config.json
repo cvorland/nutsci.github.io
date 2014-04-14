@@ -19,12 +19,12 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "groupSelectorAttribute": "Clustering (MCL (experimental))",
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "imageAttribute": false,
-    "groupByEdgeDirection": false
+    "groupByEdgeDirection": true
   },
   "sigma": {
     "graphProperties": {
