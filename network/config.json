@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "dim"
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "imageAttribute": false,
