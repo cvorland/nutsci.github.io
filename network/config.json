@@ -3,12 +3,12 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "text": "",
+    "text": "Colby",
     "file": "",
     "link": ""
   },
   "text": {
-    "title": "",
+    "title": "Nutrition #Xbio abstract titles",
     "more": "",
     "intro": "test description"
   },
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Label",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
