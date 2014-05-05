@@ -28,10 +28,10 @@
   },
   "sigma": {
     "graphProperties": {
-      "minEdgeSize": 2,
-      "maxNodeSize": 7,
-      "maxEdgeSize": 5,
-      "minNodeSize": 1
+      "minEdgeSize": 10,
+      "maxNodeSize": 10,
+      "maxEdgeSize": 10,
+      "minNodeSize": 10
     },
     "drawingProperties": {
       "labelThreshold": 10,
