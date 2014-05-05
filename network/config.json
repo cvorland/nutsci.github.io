@@ -8,7 +8,7 @@
     "link": ""
   },
   "text": {
-    "title": "Nutrition #Xbio abstract titles",
+    "title": "Nutrition #Xbio authors",
     "more": "",
     "intro": "test description"
   },
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Clustering (MCL (experimental))",
+    "groupSelectorAttribute": "name",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
